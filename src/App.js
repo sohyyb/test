@@ -7,7 +7,7 @@ function Greet({ name, onClick }) {
 }
 function App() {
   function handleClick() {
-    alert(`Hello`);
+    alert(`Hello world`);
   }
   return (
     <div className="App">
